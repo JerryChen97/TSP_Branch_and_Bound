@@ -1,7 +1,7 @@
 # TSP_Branch_and_Bound
-Sovling TSP problem with the method of Branch and Bound
------------------解决TSP问题的分支定界法类----------------------
------------------使用说明-------------------------------------
+Sovling TSP problem with the method of Branch and Bound\n
+解决TSP问题的分支定界法类
+使用说明
 先通过BranchAndBound(int VertexNum, int EdgeNum, vector<Edge> initEdge)初始化该类
 其中VertexNum为节点数目，EdgeNum为边的数目，initEdge为所有边组成的向量
 注意边的编号从0开始，节点的编号也是从0开始
